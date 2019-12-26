@@ -1,0 +1,2 @@
+include ':app', ':versioncodenamerlib'
+rootProject.name='VersionCodeNamer'
