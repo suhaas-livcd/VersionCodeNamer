@@ -1,6 +1,7 @@
-## What is VersionCodeNamer ?
+<img src="https://github.com/suhaas-livcd/suhaas-livcd.github.io/blob/master/screenShots/ReadMeVersionCodeNamer.png" align="center" title="example use of library" width="818" height="415">
+
+## What is it ?
 >VersionCodeNamer is a library to deal automatic naming of the versions in a systematic and organised way with the version names.
-https://github.com/suhaas-livcd/suhaas-livcd.github.io/blob/master/screenShots/ReadmeVersionNamer.jpg
 - Have you ever wondered what should be the next **Version name** of your app release ?
 - Should it be my favourite desert **Pastel de nata**, a large glacier **vatnajökull** or **foo** whatever something.
 - Then well you are at the right place.
@@ -25,10 +26,9 @@ implementation 'com.github.suhaas-livcd:VersionCodeNamerLibrary:+'
     TextView appVersionName = findViewById(R.id.application_version_name);
     appVersionName.setText(customVersionName);
     ...
-
 ```
-<img src="https://github.com/suhaas-livcd/suhaas-livcd.github.io/blob/master/screenShots/ReadMeVersionCodeNamer.png" align="center"
-     title="example use of library" width="818" height="485">
+
+
      
 ### Contributing
 
