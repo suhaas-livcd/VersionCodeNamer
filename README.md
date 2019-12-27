@@ -14,7 +14,7 @@
 Use the [jitpack.io](https://jitpack.io/#suhaas-livcd/VersionCodeNamerLibrary) to check dependency.
 
 ```
-implementation 'com.github.suhaas-livcd:VersionCodeNamerLibrary:+'
+implementation 'com.github.suhaas-livcd:VersionCodeNamerLibrary:1.0.1'
 ```
 
 ### Usage
