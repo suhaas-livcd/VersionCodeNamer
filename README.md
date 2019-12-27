@@ -1,4 +1,4 @@
-<img src="https://github.com/suhaas-livcd/suhaas-livcd.github.io/blob/master/screenShots/ReadMeVersionCodeNamer.png" align="center" title="example use of library" width="818" height="415">
+<img src="https://suhaas-livcd.github.io/screenShots/ReadMeVersionCodeNamer.png" align="center" title="example use of library" width="818" height="415">
 
 ## What is it ?
 >VersionCodeNamer is a library to deal automatic naming of the versions in a systematic and organised way with the version names.
