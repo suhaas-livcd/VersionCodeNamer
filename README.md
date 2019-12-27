@@ -1,5 +1,7 @@
 <img src="https://suhaas-livcd.github.io/screenShots/ReadMeVersionCodeNamer.png" align="center" title="example use of library" width="818" height="415">
 
+[![](https://jitpack.io/v/suhaas-livcd/VersionCodeNamerLibrary.svg)](https://jitpack.io/#suhaas-livcd/VersionCodeNamerLibrary)
+
 ## What is it ?
 >VersionCodeNamer is a library to deal automatic naming of the versions in a systematic and organised way with the version names.
 - Have you ever wondered what should be the next **Version name** of your app release ?
@@ -39,7 +41,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### changelog
 * Dec 27, 2019 - **A kindle**
 
-----
+---- 
 ### thanks
 * [Alphabetizer](https://alphabetizer.flap.tv/lists/)
 
